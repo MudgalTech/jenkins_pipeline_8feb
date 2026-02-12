@@ -1,16 +1,10 @@
-file should me class name  "MultiplyTwoNumbers"
-
-
 public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+        int result = a * b;
 
-        float first = 1.5f;
-        float second = 2.0f;
-
-        float product = first * second;
-
-        System.out.println("The product is: " + product);
+        System.out.println("Multiplication Result: " + result);
     }
 }
-
