@@ -6,5 +6,7 @@ public class MultiplyTwoNumbers {
         int result = a * b;
 
         System.out.println("Multiplication Result: " + result);
+        System.out.println("Multiplication Result: " + result);
+        System.out.println("Multiplication Result: " + result);
     }
 }
